@@ -6,19 +6,19 @@ function saludar(nombre, genero, edad, idioma)
 
 if (idioma === "en") {
     if (horaActual < 12) {
-      saludo = "Good morning ";
+      saludo = "Good morning";
     } else if (horaActual < 19) {
-      saludo = "Good afternoon ";
+      saludo = "Good afternoon";
     } else {
-      saludo = "Good evening ";
+      saludo = "Good evening";
     }
   } else {
     if (horaActual < 12) {
-      saludo = "Buenos dias ";
+      saludo = "Buenos dias";
     } else if (horaActual < 19) {
-      saludo = "Buenas tardes ";
+      saludo = "Buenas tardes";
     } else {
-      saludo = "Buenas noches ";
+      saludo = "Buenas noches";
     }
   }
 
@@ -26,25 +26,25 @@ if (idioma === "en") {
   if (idioma === "en") {
     if (edad > 30) {
       if (genero === "M") {
-        trato = "Mr. ";
+        trato = "Mr.";
       } else {
-        trato = "Mrs. ";
+        trato = "Mrs.";
       }
     } else {
-      trato = "Dear ";
+      trato = "Dear";
     }
   } else {
     if (edad > 30) {
       if (genero === "M") {
         trato = "Sr.";
       } else {
-        trato = "Sra. ";
+        trato = "Sra.";
       }
     } else {
       if (genero === "M") {
-        trato = "estimado ";
+        trato = "estimado";
       } else {
-        trato = "estimada ";
+        trato = "estimada";
       }
     }
   }

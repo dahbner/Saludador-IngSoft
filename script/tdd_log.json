@@ -48,7 +48,7 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c7f27a80cdad6f5ad62f2cd5cc5a7f95212ae35c",
     "commitName": "feat: soporte para ingles y espanol",
     "commitTimestamp": 1771282554545,
     "testId": 8
@@ -58,5 +58,11 @@
     "commitName": "test: actualizar tests para el saludador",
     "commitTimestamp": 1771282711520,
     "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: github run unit tests",
+    "commitTimestamp": 1771283129855,
+    "testId": 10
   }
 ]

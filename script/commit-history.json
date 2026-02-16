@@ -152,12 +152,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "c7f27a80cdad6f5ad62f2cd5cc5a7f95212ae35c",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:58:30.000Z",
       "message": "test: actualizar tests para el saludador",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/c7f27a80cdad6f5ad62f2cd5cc5a7f95212ae35c"
     },
     "stats": {
       "total": 43,
@@ -169,5 +169,24 @@
     "test_count": 6,
     "failed_tests": 4,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T23:05:29.000Z",
+      "message": "fix: github run unit tests",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 12,
+      "deletions": 12,
+      "date": "2026-02-16"
+    },
+    "coverage": 79.31,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
