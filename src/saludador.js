@@ -33,11 +33,11 @@ function saludar(nombre, genero)
     {
       if (genero === "M") 
       {
-        trato = "estimado"; 
+        trato = "estimado "; 
       } 
       else 
       {
-        trato = "estimada"; 
+        trato = "estimada "; 
       }
     }
 

@@ -76,17 +76,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "08004dd42665fd04d40f889f52c374edb3d68e65",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:47:16.000Z",
       "message": "feat: saludar por edad con titulo Sr/Sra",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/08004dd42665fd04d40f889f52c374edb3d68e65"
     },
     "stats": {
       "total": 51,
       "additions": 39,
       "deletions": 12,
+      "date": "2026-02-16"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T22:48:22.000Z",
+      "message": "fix: estimado/a no tenia un espacio de separacion",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
       "date": "2026-02-16"
     },
     "coverage": 0,

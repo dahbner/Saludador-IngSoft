@@ -24,7 +24,7 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "08004dd42665fd04d40f889f52c374edb3d68e65",
     "commitName": "feat: saludar por genero usando estimado/a",
     "commitTimestamp": 1771281629975,
     "testId": 4
@@ -34,5 +34,11 @@
     "commitName": "feat: saludar por edad con titulo Sr/Sra",
     "commitTimestamp": 1771282037385,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: estimado/a no tenia un espacio de separacion",
+    "commitTimestamp": 1771282102758,
+    "testId": 6
   }
 ]
