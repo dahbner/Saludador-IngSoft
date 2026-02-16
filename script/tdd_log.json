@@ -12,7 +12,7 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "119412255f8f1a1a529055fe44ce79cacbd5d22d",
     "commitName": "feat: saludar por nombre",
     "commitTimestamp": 1771280691703,
     "testId": 2
@@ -22,5 +22,11 @@
     "commitName": "feat: saludar segun la hora",
     "commitTimestamp": 1771280988820,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: saludar por genero usando estimado/a",
+    "commitTimestamp": 1771281629975,
+    "testId": 4
   }
 ]

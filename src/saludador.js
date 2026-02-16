@@ -1,4 +1,4 @@
-function saludar(nombre) {
+function saludar(nombre, genero) {
   let fechaActual = new Date();
   let horaActual = fechaActual.getHours();
   let saludo = "";
@@ -11,7 +11,15 @@ function saludar(nombre) {
     saludo = "Buenas noches";
   }
 
-  return saludo + " " + nombre;
+  let trato = "";
+  
+  if (genero === "M") {
+    trato = "estimado ";
+  } else {
+    trato = "estimada ";
+  }
+
+  return saludo + " " + trato + nombre;
 }
 
 export default saludar;
