@@ -19,17 +19,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "4eeb291a4a22dd4f5e2b649ff5bde27d88707a0e",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:24:50.000Z",
       "message": "feat: saludar por nombre",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/4eeb291a4a22dd4f5e2b649ff5bde27d88707a0e"
     },
     "stats": {
       "total": 18,
       "additions": 15,
       "deletions": 3,
+      "date": "2026-02-16"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T22:29:48.000Z",
+      "message": "feat: saludar segun la hora",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 13,
+      "deletions": 1,
       "date": "2026-02-16"
     },
     "coverage": 0,
