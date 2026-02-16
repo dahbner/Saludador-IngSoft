@@ -42,7 +42,7 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fea5ca6fbccf7a77ad4f3ab53052f7729f455773",
     "commitName": "fix: saludar no recibia el parametro edad",
     "commitTimestamp": 1771282189820,
     "testId": 7
@@ -52,5 +52,11 @@
     "commitName": "feat: soporte para ingles y espanol",
     "commitTimestamp": 1771282554545,
     "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: actualizar tests para el saludador",
+    "commitTimestamp": 1771282711520,
+    "testId": 9
   }
 ]
