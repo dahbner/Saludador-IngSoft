@@ -114,17 +114,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "74d86f750be2a55fac59fdd6a727813c22f6232e",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:49:49.000Z",
       "message": "fix: saludar no recibia el parametro edad",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/74d86f750be2a55fac59fdd6a727813c22f6232e"
     },
     "stats": {
       "total": 2,
       "additions": 1,
       "deletions": 1,
+      "date": "2026-02-16"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T22:55:53.000Z",
+      "message": "feat: soporte para ingles y espanol",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 82,
+      "additions": 49,
+      "deletions": 33,
       "date": "2026-02-16"
     },
     "coverage": 0,

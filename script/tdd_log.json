@@ -36,7 +36,7 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "74d86f750be2a55fac59fdd6a727813c22f6232e",
     "commitName": "fix: estimado/a no tenia un espacio de separacion",
     "commitTimestamp": 1771282102758,
     "testId": 6
@@ -46,5 +46,11 @@
     "commitName": "fix: saludar no recibia el parametro edad",
     "commitTimestamp": 1771282189820,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soporte para ingles y espanol",
+    "commitTimestamp": 1771282554545,
+    "testId": 8
   }
 ]
