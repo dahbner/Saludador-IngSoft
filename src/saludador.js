@@ -1,4 +1,4 @@
-function saludar(nombre, genero) 
+function saludar(nombre, genero, edad) 
 {
   let fechaActual = new Date();
   let horaActual = fechaActual.getHours();

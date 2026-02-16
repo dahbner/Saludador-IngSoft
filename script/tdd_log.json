@@ -30,7 +30,7 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8e42c46ec3d8417a34ce2f6a14bff611cfcf40dc",
     "commitName": "feat: saludar por edad con titulo Sr/Sra",
     "commitTimestamp": 1771282037385,
     "testId": 5
@@ -40,5 +40,11 @@
     "commitName": "fix: estimado/a no tenia un espacio de separacion",
     "commitTimestamp": 1771282102758,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: saludar no recibia el parametro edad",
+    "commitTimestamp": 1771282189820,
+    "testId": 7
   }
 ]

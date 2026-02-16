@@ -95,17 +95,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "8e42c46ec3d8417a34ce2f6a14bff611cfcf40dc",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:48:22.000Z",
       "message": "fix: estimado/a no tenia un espacio de separacion",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/8e42c46ec3d8417a34ce2f6a14bff611cfcf40dc"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2026-02-16"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T22:49:49.000Z",
+      "message": "fix: saludar no recibia el parametro edad",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2026-02-16"
     },
     "coverage": 0,
