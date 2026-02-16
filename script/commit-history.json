@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "8815206a40ab07f24387ecc83bc1f5551ffa2df9",
     "author": "dahbner",
     "commit": {
       "date": "2026-02-16T22:11:25.000Z",
       "message": "feat: adding basic greeting 'hola'",
-      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/8815206a40ab07f24387ecc83bc1f5551ffa2df9"
     },
     "stats": {
       "total": 106,
       "additions": 80,
       "deletions": 26,
+      "date": "2026-02-16"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "dahbner",
+    "commit": {
+      "date": "2026-02-16T22:24:50.000Z",
+      "message": "feat: saludar por nombre",
+      "url": "https://github.com/dahbner/Saludador-IngSoft/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 15,
+      "deletions": 3,
       "date": "2026-02-16"
     },
     "coverage": 0,

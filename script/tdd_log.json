@@ -1,8 +1,20 @@
 [
   {
-    "commitId": "HEAD",
+    "commitId": "8815206a40ab07f24387ecc83bc1f5551ffa2df9",
     "commitName": "feat: adding basic greeting 'hola'",
     "commitTimestamp": 1771279886182,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: saludar con hola",
+    "commitTimestamp": 1771280200614,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: saludar por nombre",
+    "commitTimestamp": 1771280691703,
+    "testId": 2
   }
 ]
